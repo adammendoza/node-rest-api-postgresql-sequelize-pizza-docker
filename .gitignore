@@ -1,0 +1,5 @@
+node_modules
+dist
+
+# Finder stuff
+.DS_Store
